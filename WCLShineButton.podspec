@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-
+  s.swift_version = "4.2"
   s.name          = "WCLShineButton"
   s.version       = "1.0.7"
   s.summary       = "This is a UI lib for iOS. Effects like shining."
